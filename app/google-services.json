@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561144283835",
+    "project_id": "authenticbeauty-f64ad",
+    "storage_bucket": "authenticbeauty-f64ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561144283835:android:49669d6f6e987920a05f9e",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe80FzX-KZdBV2DH6gIFrH_SIyYrZ5BvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
